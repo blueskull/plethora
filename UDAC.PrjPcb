@@ -88,7 +88,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EUPHIEDC
 
 [Document4]
-DocumentPath=OUT.SchDoc
+DocumentPath=IVC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
